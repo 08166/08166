@@ -4,10 +4,9 @@
 
 - 추가로 뭘 넣을것인지.
 
-
 ## Features - 특징
 
-#기술 스택
+# 기술 스택
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
