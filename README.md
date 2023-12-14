@@ -36,9 +36,9 @@
     <!--     Development Tools -->
     <p><strong>Development Tools</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=Intellij IDEA&logoColor=black">
-        <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=black">
-        <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=Eclipseide IDE&logoColor=black">
+        <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=black">
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=black">
+        <img src="https://img.shields.io/badge/Eclipseide IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=black">
     </div>
 </div>
 
