@@ -38,7 +38,6 @@
     <div>
         <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=black">
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=black">
-        <img src="https://img.shields.io/badge/Eclipseide IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=black">
     </div>
 </div>
 
