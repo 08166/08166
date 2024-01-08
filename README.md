@@ -1,10 +1,11 @@
 # 이선호
 
-## 샬라샬라
+<!-- ## 샬라샬라
 
 - 추가로 뭘 넣을것인지.
 
 ## Features - 특징
+-->
 
 # 기술 스택
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
