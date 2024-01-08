@@ -12,13 +12,13 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
     </div>
         <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=CSS&logoColor=white"/> 
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javasceipt&logoColor=white"/> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
     </div>
