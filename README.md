@@ -7,8 +7,9 @@
 ## Features - 특징
 -->
 
-## 🔧 기술 스택
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
+<!-- ## 🔧 기술 스택
 
 > Backend <br/>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
@@ -33,5 +34,4 @@
 	<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=Github&logoColor=white"/> <br/>
  
 > Communication <br/>
- 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <br/>
-
+ 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <br/> -->
