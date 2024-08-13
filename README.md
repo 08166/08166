@@ -6,9 +6,9 @@
 
 ## Features - 특징
 -->
-
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-
+<a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+</a>
 <!-- ## 🔧 기술 스택
 
 > Backend <br/>
