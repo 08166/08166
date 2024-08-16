@@ -6,7 +6,12 @@
 https://www.miricanvas.com/v/13k5hch
 ## Features - 특징
 -->
-<div style="text-align: center;">
+<style>
+    .centered {
+        text-align: center;
+    }
+</style>
+<div class="centered">
     <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion Badge">
     </a>
