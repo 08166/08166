@@ -3,11 +3,14 @@
 <!-- ## 샬라샬라
 
 - 추가로 뭘 넣을것인지.
-
+https://www.miricanvas.com/v/13k5hch
 ## Features - 특징
 -->
 <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+</a>
+<a href="https://www.miricanvas.com/v/13k5hch">
+<img src="https://img.shields.io/badge/MiriCanvas-000000?style=for-the-badge&logo=이력서&logoColor=white">
 </a>
 <!-- ## 🔧 기술 스택
 
