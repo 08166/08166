@@ -8,14 +8,14 @@ https://www.miricanvas.com/v/13k5hch
 -->
  <!--[![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://skillicons.dev)-->
 <div align="center">
-    <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
-        <img src="https://img.shields.io/badge/이력서-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion Badge">
+   	<a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
+        <img src="https://skillicons.dev/icons?i=pug&theme=light" alt="이력서 Icon">
     </a>
-</div>
+</div>   
 
 <div align="center">
     <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
-        <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="Notion Icon">
+        <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="포트폴리오 Icon">
     </a>
 </div>
 <!-- ## 🔧 기술 스택
