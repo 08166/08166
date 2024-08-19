@@ -41,9 +41,6 @@ https://www.miricanvas.com/v/13k5hch
   </tr>
 </table>
 
-<div align="center">
-    <p>이력서와 포트폴리오 링크</p>
-</div>
 <!-- ## 🔧 기술 스택
 
 > Backend <br/>
