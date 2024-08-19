@@ -6,18 +6,18 @@
 https://www.miricanvas.com/v/13k5hch
 ## Features - 특징
 -->
- [![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://skillicons.dev)
-<div style="display: flex; justify-content: center;">
-    <a href="[https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4](https://www.miricanvas.com/v/13k5hch)">
+ <!--[![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://skillicons.dev)-->
+<div align="center">
+    <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
         <img src="https://img.shields.io/badge/이력서-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion Badge">
     </a>
 </div>
-<div style="display: flex; justify-content: center;">
+
+<div align="center">
     <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
-        [![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://skillicons.dev)
+        <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="Notion Icon">
     </a>
 </div>
-
 <!-- ## 🔧 기술 스택
 
 > Backend <br/>
