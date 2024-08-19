@@ -7,7 +7,7 @@ https://www.miricanvas.com/v/13k5hch
 ## Features - 특징
 -->
  <!--[![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://skillicons.dev)-->
-<div align="center">
+<!-- <div align="center">
    	<a href="https://www.miricanvas.com/v2/design/13k5hch">
         <img src="https://skillicons.dev/icons?i=pug&theme=light" alt="이력서 Icon">
     </a>
@@ -17,6 +17,24 @@ https://www.miricanvas.com/v/13k5hch
     <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
         <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="포트폴리오 Icon">
     </a>
+</div> -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.miricanvas.com/v2/design/13k5hch">
+        <img src="https://skillicons.dev/icons?i=pug&theme=light" alt="이력서 Icon">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
+        <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="포트폴리오 Icon">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+    <p>이력서와 포트폴리오 링크</p>
 </div>
 <!-- ## 🔧 기술 스택
 
