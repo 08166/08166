@@ -33,10 +33,10 @@ https://www.miricanvas.com/v/13k5hch
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.miricanvas.com/v2/design/13k5hch">이력서 링크</a>
+      <a href="https://www.miricanvas.com/v2/design/13k5hch">이력서</a>
     </td>
     <td align="center">
-      <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">포트폴리오 링크</a>
+      <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">포트폴리오</a>
     </td>
   </tr>
 </table>
