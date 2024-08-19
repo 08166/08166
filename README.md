@@ -7,6 +7,11 @@ https://www.miricanvas.com/v/13k5hch
 ## Features - 특징
 -->
 <div style="display: flex; justify-content: center;">
+    <a href="[https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4](https://www.miricanvas.com/v/13k5hch)">
+        <img src="https://img.shields.io/badge/이력서-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion Badge">
+    </a>
+</div>
+<div style="display: flex; justify-content: center;">
     <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion Badge">
     </a>
