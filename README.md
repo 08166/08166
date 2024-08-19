@@ -21,7 +21,7 @@ https://www.miricanvas.com/v/13k5hch
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.miricanvas.com/v2/design/13k5hch">
+      <a href="https://www.miricanvas.com/v/13k5hch">
         <img src="https://skillicons.dev/icons?i=pug&theme=light" alt="이력서 Icon">
       </a>
     </td>
