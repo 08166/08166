@@ -8,7 +8,7 @@ https://www.miricanvas.com/v/13k5hch
 -->
  <!--[![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://skillicons.dev)-->
 <div align="center">
-   	<a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
+   	<a href="[https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4](https://www.miricanvas.com/v2/design/13k5hch)">
         <img src="https://skillicons.dev/icons?i=pug&theme=light" alt="이력서 Icon">
     </a>
 </div>   
