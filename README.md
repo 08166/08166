@@ -21,11 +21,11 @@ https://www.miricanvas.com/v/13k5hch
 
 <table align="center">
   <tr>
-    <td align="center">
+    <!-- <td align="center">
       <a href="https://www.miricanvas.com/v/13k5hch">
         <img src="https://skillicons.dev/icons?i=pug&theme=light" alt="이력서 Icon">
       </a>
-    </td>
+    </td> -->
     <td align="center">
       <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
         <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="포트폴리오 Icon">
