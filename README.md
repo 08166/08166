@@ -1,4 +1,39 @@
 
+# 👀 SoHyeon Kim
+**To be Growing Backend Developer**
+
+---
+
+## 🛠️ Skills
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
+
+---
+
+## 📚 Project
+
+| Project | Description | Team | Date |
+| :------ | :---------- | :--- | :--- |
+<!-- | [](#) |  |  |  |
+| [](#) |  | |  |
+| [](#) |  |  |  |
+| [ ](#) |  |  |  |
+| [](#) |  |  |  | -->
+| [](#) |  |  |  |
+| [](#) |  |  |  |
+
+---
+
+## ✏️ Study
+
+| Contents | Date |
+| :------- | :--- |
+|  |  |
+|  |  |
+
+---
+
+
+
 
 <!-- ## 샬라샬라
 
