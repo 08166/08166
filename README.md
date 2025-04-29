@@ -1,5 +1,5 @@
 
-# 👀 SoHyeon Kim
+# 👀 
 **To be Growing Backend Developer**
 
 ---
@@ -54,13 +54,8 @@ https://www.miricanvas.com/v/13k5hch
     </a>
 </div> -->
 
-<table align="center">
+<!-- <table align="center">
   <tr>
-    <!-- <td align="center">
-      <a href="https://www.miricanvas.com/v/13k5hch">
-        <img src="https://skillicons.dev/icons?i=pug&theme=light" alt="이력서 Icon">
-      </a>
-    </td> -->
     <td align="center">
       <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
         <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="포트폴리오 Icon">
@@ -68,14 +63,11 @@ https://www.miricanvas.com/v/13k5hch
     </td>
   </tr>
   <tr>
-    <!-- <td align="center">
-      <a href="https://www.miricanvas.com/v2/design/13k5hch">이력서</a>
-    </td>-->
     <td align="center">
       <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">포트폴리오</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ## 🔧 기술 스택
 
