@@ -2,13 +2,15 @@
 # SeonHo Lee 😎
 **🤦🏻‍♂️To be Growing Backend Developer**
 
-
-## 🛠️ Skills
+<br/>
+<br/>
+##  Skills
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-
-## 📚 Project
+<br/>
+<br/>
+##  Project
 
 | Project | Description | Team | Date |
 | :------ | :---------- | :--- | :--- |
@@ -20,9 +22,9 @@
 | [](#) |  | |  |
 | [](#) |  |  |  | -->
 
-
-
-## ✏️ Study
+<br/>
+<br/>
+## Study
 
 | Contents | Date |
 | :------- | :--- |
