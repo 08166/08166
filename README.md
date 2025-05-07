@@ -1,6 +1,6 @@
 
-# SeonHo Lee
-**To be Growing Backend Developer**
+# SeonHo Lee 😎
+**🤦🏻‍♂️To be Growing Backend Developer**
 
 ---
 
