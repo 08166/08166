@@ -2,11 +2,11 @@
 **🤦🏻‍♂️To be Growing Backend Developer**
 
 
-**Skills**
+**Skills** </br>
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-
+</br>
 
 **Project**
 
@@ -18,6 +18,7 @@
 | [모든 다알개](https://github.com/DBDBD20230803/DaalgaeProject) | 반려견 종합 정보 사이트 | 하이미디어 java 6기 (DBDBDB) | 23.08.18 ~ 23.10.02 |
 <!--| [](#) |  |  |  | -->
 
+</br>
 
 **Study**
 
