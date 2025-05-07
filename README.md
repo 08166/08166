@@ -4,10 +4,8 @@
 <br/>
 <br/>
 ## Skills <br/>
-<!-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white) -->
-- Java: ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
-- Python: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 <br/>
 <br/>
