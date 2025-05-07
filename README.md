@@ -1,35 +1,28 @@
 # SeonHo Lee 😎
 **🤦🏻‍♂️To be Growing Backend Developer**
 
-<br/>
-<br/>
-## Skills <br/>
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
-<br/>
-<br/>
-## Project <br/>
+## Skills
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+
+
+## Project
 
 | Project | Description | Team | Date |
 | :------ | :---------- | :--- | :--- |
 | [Do:Rering](https://github.com/Re-Spring/Do-Rering_AI) | 생산형 동화만들기 | AI-X 3기 (respring) | 24.02.08 ~ 24.03.27 | 
 | [Health-ID](https://github.com/Re-Spring/Health-ID) | 얼굴인식 출입통제 (MVP) | AI-X 3기 (respring) | 24.02.05 ~ 24.02.07 |
-| [오일장](https://github.com/Merge-co/OIL-JANG_BE) | 중고거래 웹 사이트 |하이미디어 java 6기 (merge-co)| 23.11.03 ~ 23.12.11 |
+| [오일장](https://github.com/Merge-co/OIL-JANG_BE) | 중고거래 웹 사이트 | 하이미디어 java 6기 (merge-co) | 23.11.03 ~ 23.12.11 |
 | [모든 다알개](https://github.com/DBDBD20230803/DaalgaeProject) | 반려견 종합 정보 사이트 | 하이미디어 java 6기 (DBDBDB) | 23.08.18 ~ 23.10.02 |
-<!-- | [](#) |  |  |  |
-| [](#) |  | |  |
-| [](#) |  |  |  | -->
 
-<br/>
-<br/>
-## Study <br/>
+
+## Study
 
 | Contents | Date |
 | :------- | :--- |
 | AI-X 인공지능 강의 실습 | 24.01.29 ~ 24.04.23 |
-|Java기반 React 국비 강의 실습| 23.06.08 ~ 23.12.08 |
-
+| Java 기반 React 국비 강의 실습 | 23.06.08 ~ 23.12.08 |
 
 
 
