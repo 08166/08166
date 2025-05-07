@@ -2,13 +2,13 @@
 **🤦🏻‍♂️To be Growing Backend Developer**
 
 
-## Skills
+**Skills**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 
 
 
-## Project
+**Project**
 
 | Project | Description | Team | Date |
 | :------ | :---------- | :--- | :--- |
@@ -19,7 +19,7 @@
 <!--| [](#) |  |  |  | -->
 
 
-## Study
+**Study**
 
 | Contents | Date |
 | :------- | :--- |
@@ -27,42 +27,6 @@
 | Java 기반 React 국비 강의 실습 | 23.06.08 ~ 23.12.08 |
 
 
-
-
-
-<!-- ## 샬라샬라
-
-- 추가로 뭘 넣을것인지.
-https://www.miricanvas.com/v/13k5hch
-## Features - 특징
--->
- <!--[![My Skills](https://skillicons.dev/icons?i=notion&theme=light)](https://skillicons.dev)-->
-<!-- <div align="center">
-   	<a href="https://www.miricanvas.com/v/13k5hch">
-        <img src="https://skillicons.dev/icons?i=pug&theme=light" alt="이력서 Icon">
-    </a>
-</div>   
-
-<div align="center">
-    <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
-        <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="포트폴리오 Icon">
-    </a>
-</div> -->
-
-<!-- <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">
-        <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="포트폴리오 Icon">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://vagabond-pearl-38a.notion.site/d120a1152c56471dbcf3632bf2881c9c?pvs=4">포트폴리오</a>
-    </td>
-  </tr>
-</table> -->
 
 <!-- ## 🔧 기술 스택
 
