@@ -2,12 +2,11 @@
 # SeonHo Lee 😎
 **🤦🏻‍♂️To be Growing Backend Developer**
 
----
 
 ## 🛠️ Skills
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
----
+
 
 ## 📚 Project
 
@@ -21,7 +20,7 @@
 | [](#) |  | |  |
 | [](#) |  |  |  | -->
 
----
+
 
 ## ✏️ Study
 
@@ -30,7 +29,7 @@
 | AI-X 인공지능 강의 실습 | 24.01.29 ~ 24.04.23 |
 |Java기반 React 국비 강의 실습| 23.06.08 ~ 23.12.08 |
 
----
+
 
 
 
