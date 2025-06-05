@@ -12,7 +12,7 @@
 
 | Project | Description | Team | Date |
 | :------ | :---------- | :--- | :--- |
-| [Chorongyi](https://github.com/yumyumpot/chorongyi)| HAI 중고차 AI 대회 | yumyum | 25.05.10 ~  |
+| [Chorongyi](https://github.com/yumyumpot/chorongyi)| HAI 중고차 AI 대회 (대회 종료 후 공개예정) | yumyum | 25.05.10 ~  |
 | [Do:Rering](https://github.com/Re-Spring/Do-Rering_AI) | 생산형 동화만들기 | AI-X 3기 (respring) | 24.02.08 ~ 24.03.27 | 
 | [Health-ID](https://github.com/Re-Spring/Health-ID) | 얼굴인식 출입통제 (MVP) | AI-X 3기 (respring) | 24.02.05 ~ 24.02.07 |
 | [오일장](https://github.com/Merge-co/OIL-JANG_BE) | 중고거래 웹 사이트 | 하이미디어 java 6기 (merge-co) | 23.11.03 ~ 23.12.11 |
