@@ -12,7 +12,7 @@
 
 | Project | Description | Team | Date |
 | :------ | :---------- | :--- | :--- |
-| [어선일이고?!]| KDT 7회 해커톤 [유휴 어선 임대를 통한 멘토링 지원 서비스] | 어선일이고 | 25.07.23 ~ |
+<!-- | [어선일이고?!]| KDT 7회 해커톤 [유휴 어선 임대를 통한 멘토링 지원 서비스] | 어선일이고 | 25.07.23 ~ | -->
 | [Chorongyi](https://github.com/yumyumpot/chorongyi)| HAI 중고차 AI 대회 | yumyum | 25.05.10 ~ 25.06.16 |
 | [Do:Rering](https://github.com/Re-Spring/Do-Rering_AI) | 생산형 동화만들기 | AI-X 3기 (respring) | 24.02.08 ~ 24.03.27 | 
 | [Health-ID](https://github.com/Re-Spring/Health-ID) | 얼굴인식 출입통제 (MVP) | AI-X 3기 (respring) | 24.02.05 ~ 24.02.07 |
