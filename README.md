@@ -12,7 +12,7 @@
 
 | Project | Description | Team | Date |
 | :------ | :---------- | :--- | :--- |
-| [eoseon-iligo](https://github.com/eoseon-iligo)| KDT 해커톤 대회 | eseon | 25.06.17 ~  |
+| [eoseon-iligo](https://github.com/eoseon-iligo)| KDT 해커톤 대회 | 어선일이고?! | 25.06.17 ~  |
 | [Chorongyi](https://github.com/yumyumpot/chorongyi)| HAI 중고차 AI 대회 | yumyum | 25.05.10 ~ 25.06.16 |
 | [Do:Rering](https://github.com/Re-Spring/Do-Rering_AI) | 생산형 동화만들기 | AI-X 3기 (respring) | 24.02.08 ~ 24.03.27 | 
 | [Health-ID](https://github.com/Re-Spring/Health-ID) | 얼굴인식 출입통제 (MVP) | AI-X 3기 (respring) | 24.02.05 ~ 24.02.07 |
